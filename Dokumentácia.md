@@ -11,7 +11,7 @@ Tento projekt demonštruje konfiguráciu VLAN a DHCP na sieti s routerom Cisco (
 - **Hlavný prepínač (2960-24TT):**
 	- Pripojený k routeru cez trunk.
 	- Pripojený k 10 podřazeným prepínačom.
-- **Podrazené prepínače (2960-24TT):**
+- **Podradené prepínače (2960-24TT):**
 	- Pripojený k routeru a prepínaču cez trunk.
 	- Každý pripojený k PC a IP telefónu.
 
